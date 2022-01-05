@@ -23,13 +23,14 @@
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </br>
 </div>
 
 
 <div>
 <a href="https://github.com/ViniR07">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniR07&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniR07&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/ViniR07/ViniR07/blob/output/github-contribution-grid-snake.svg)
