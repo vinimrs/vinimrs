@@ -32,9 +32,8 @@
 
 ### GitHub Stats
 
-<div style="text-align: left;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="width: 600px; height: 250px;"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&text_color=22F0CF" style="width: 600px; height: 250px;"/>
+
 
 <!-- <div style="text-align: left;">
 <a href="https://github.com/ViniR07">
