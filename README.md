@@ -12,7 +12,7 @@
 ### Tecnologias e Ferramentas
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="eidth: 100px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="width: 100px;"/>
 
 
 ### Entre em contato comigo:
