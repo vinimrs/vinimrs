@@ -1,6 +1,6 @@
 # Hello, I'm Vinícius. Welcome to my Github! 👋 
 
--  💼 :briefcase: Se você trabalha ou estuda, e onde;
+- 💼 :briefcase: Se você trabalha ou estuda, e onde;
 -  📑 :bookmark_tabs: O que você anda estudando e aprendendo;
 - 🎓 :mortar_board: Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos.;
 -  📪 :mailbox_closed: Como se comunicar com você: contatos;
@@ -8,8 +8,6 @@
 -  ⚡ :zap: Curiosidades;
 
 ### Tecnologias e Ferramentas
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="width: 60px;"/>
 
 
