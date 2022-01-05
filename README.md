@@ -1,6 +1,4 @@
-## 👋 Hello! Welcome to my Github profile!
-### My name is Vinícius and my nickname is ViniR07.
-
+# Hello, I'm Vinícius! Welcome to my Github profile! 👋 
 
 -  💼 :briefcase: Se você trabalha ou estuda, e onde;
 -  📑 :bookmark_tabs: O que você anda estudando e aprendendo;
