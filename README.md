@@ -27,12 +27,14 @@
 </div>
 
 
-<br></nr>
+<br></br>
 
 
 ### GitHub Stats
 
+<div style="text-align: left;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="width: 800px; height: 250px;"/>
+</div>
 
 <!-- <div style="text-align: left;">
 <a href="https://github.com/ViniR07">
