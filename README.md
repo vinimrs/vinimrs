@@ -1,4 +1,4 @@
-# Hello, I'm Vinícius! Welcome to my Github profile! 👋 
+# Hello, I'm Vinícius. Welcome to my Github! 👋 
 
 -  💼 :briefcase: Se você trabalha ou estuda, e onde;
 -  📑 :bookmark_tabs: O que você anda estudando e aprendendo;
