@@ -1,10 +1,11 @@
 # Hello, I'm Vinícius. Welcome to my Github! 👋 
 
-- :mortar_board: Computer Science - UFSCar;
-- :bookmark_tabs: Improving my React and Database skills, trying to improve my Linkedin profile;
-- :mailbox_closed: Como se comunicar com você: contatos;
-- :books: HTML/CSS, JS, React;
-- :zap: I always imagined that programming was all about hacking 😂;
+- 🎓 Computer Science - UFSCar;
+- 🔦 Improving my React and Database skills, trying to improve my Linkedin profile 😅;
+- 📚 HTML/CSS, JS, React;
+- 🤩 In love with programming;
+- 🤔 Curious by nature;
+- ⚡ I always imagined that programming was all about hacking 😂;
 
 ## Tecnologies and tools
 <div>
