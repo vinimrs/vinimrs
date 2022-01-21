@@ -1,24 +1,26 @@
 # Hello, I'm Vinícius. Welcome to my Github! 👋 
 
--  💼 :briefcase: Se você trabalha ou estuda, e onde;
--  📑 :bookmark_tabs: O que você anda estudando e aprendendo;
-- 🎓 :mortar_board: Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos.;
--  📪 :mailbox_closed: Como se comunicar com você: contatos;
--  📚 :books: Conhecimentos que já domina;
--  ⚡ :zap: Curiosidades;
+- :briefcase: Computer Science - UFSCar;
+- :bookmark_tabs: Improving my React and Database skills, trying to improve my Linkedin profile;
+- :mortar_board: Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos.;
+- :mailbox_closed: Como se comunicar com você: contatos;
+- :books: HTML/CSS, JS, React;
+- :zap: I always imagined that programming was all about hacking 😂;
 
-### Tecnologias e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="width: 60px;"/>
+## Tecnologies and tools
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "60px"/>
+</div>
 
 
-### Entre em contato comigo:
+## Contact me:
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/vocedeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:viniciusromualdo082@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-romualdo-5a9555219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 </div>
 
@@ -26,7 +28,7 @@
 <br></br>
 
 
-### GitHub Stats
+## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
 
