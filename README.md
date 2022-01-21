@@ -13,7 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "60px"/>
 </div>
 
-
 ## Contact me:
 
 <div>
@@ -23,10 +22,6 @@
 <a href="https://www.linkedin.com/in/vinicius-romualdo-5a9555219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 </div>
-
-
-<br></br>
-
 
 ## GitHub Stats
 
@@ -39,6 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniR07&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="width: 800px; height: 250px;"/>
 </div> -->
-  
+
+## Follow the snake for now 
 ![Snake animation](https://github.com/ViniR07/ViniR07/blob/output/github-contribution-grid-snake.svg)
 
