@@ -1,8 +1,7 @@
 # Hello, I'm Vinícius. Welcome to my Github! 👋 
 
-- :briefcase: Computer Science - UFSCar;
+- :mortar_board: Computer Science - UFSCar;
 - :bookmark_tabs: Improving my React and Database skills, trying to improve my Linkedin profile;
-- :mortar_board: Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos.;
 - :mailbox_closed: Como se comunicar com você: contatos;
 - :books: HTML/CSS, JS, React;
 - :zap: I always imagined that programming was all about hacking 😂;
