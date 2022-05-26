@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science - UFSCar;
 - 🔦 Improving my React and Back-End skills, trying to improve my Linkedin profile 😅;
-- 📚 HTML/CSS, JS, React, NextJs, NodeJs, PostgresSQL;
+- 📚 HTML/CSS, JS, TS, React, NextJs, NodeJs, PostgreSQL;
 - 🤩 In love with programming;
 - 🤔 Curious by nature;
 - ⚡ I always imagined that programming was all about hacking 😂;
