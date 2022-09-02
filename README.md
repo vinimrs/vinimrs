@@ -7,7 +7,7 @@
 - 🤔 Curious by nature;
 - ⚡ I always imagined that programming was all about hacking 😂;
 
-## Tecnologies and tools
+## Technologies and tools
 <div >
   <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width= "60px"/> 
