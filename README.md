@@ -43,7 +43,7 @@
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniR07&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimrs&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
 
 
 <!-- <div style="text-align: left;">
@@ -54,5 +54,5 @@
 </div> -->
 
 ## Follow the snake for now 
-![Snake animation](https://github.com/ViniR07/ViniR07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vinimrs/vinimrs/blob/output/github-contribution-grid-snake.svg)
 
