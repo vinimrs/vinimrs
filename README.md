@@ -35,7 +35,7 @@
 
 <!-- <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<a href="https://instagram.com/vocedeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!-- <a href="https://instagram.com/vocedeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 <a href = "mailto:viniciusromualdobusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-romualdo-5a9555219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
@@ -43,7 +43,7 @@
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimrs&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinimrs&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
 
 
 <!-- <div style="text-align: left;">
