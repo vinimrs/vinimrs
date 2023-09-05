@@ -1,13 +1,14 @@
 # Hello, I'm Vinícius. Welcome to my Github! 👋 
 
 - 🎓 Computer Science - UFSCar;
-- 🔦 Improving my React and Back-End skills, trying to improve my Linkedin profile 😅;
-- 📚 HTML/CSS, JS, TS, React, NextJs, NodeJs, PostgreSQL;
+- 🔦 Improving my software developer skills, trying to improve my Linkedin profile 😅;
+- 🌱 For now i'm learning about Devops, Java environment and communication skills.
+- 📚 HTML/CSS, TS, NextJs, NodeJs, PostgreSQL, Java, Spring Boot, Machine Learning;
 - 🤩 In love with programming;
 - 🤔 Curious by nature;
 - ⚡ I always imagined that programming was all about hacking 😂;
 
-## Technologies and tools
+## Some technologies and tools
 <div >
   <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width= "60px"/> 
@@ -43,8 +44,11 @@
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinimrs&show_icons=true&count_private=true&bg_color=00000000&text_color=777" style="width: 600px; height: 250px;"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinimrs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width: 600px; height: 250px;"/>
 
+## Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimrs&layout=compact)
 
 <!-- <div style="text-align: left;">
 <a href="https://github.com/ViniR07">
@@ -55,4 +59,5 @@
 
 ## Follow the snake for now 
 ![Snake animation](https://github.com/vinimrs/vinimrs/blob/output/github-contribution-grid-snake.svg)
+
 
